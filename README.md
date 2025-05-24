@@ -1,24 +1,19 @@
 # Reseach-Assistant
-This project is a powerful and user-friendly Chrome Extension designed to assist users in academic and technical research tasks. The extension seamlessly integrates with a Spring Boot backend, enabling efficient data processing, storage, and communication with external APIs or databases.
+Este projeto é uma extensão do Chrome poderosa e fácil de usar, desenvolvida para auxiliar usuários em tarefas de pesquisa acadêmica e técnica. A extensão se integra perfeitamente com um backend em Spring Boot, permitindo o processamento eficiente de dados, armazenamento e comunicação com APIs externas ou bancos de dados.
 
-🚀 Key Features
-🧠 AI-powered research suggestions and assistance
+🚀 Principais Funcionalidades
+🧠 Sugestões e assistência para pesquisas com tecnologia de IA
+🔗 Salve, organize e anote páginas da web ou trechos de conteúdo
+📤 Comunicação fluida com o backend Spring Boot
+🗃️ Armazene e recupere dados de pesquisa em um formato estruturado
+🛠️ Arquitetura escalável e modular, preparada para futuras melhorias
 
-🔗 Save, organize, and annotate web pages or snippets
+🧩 Stack Tecnológico
 
-📤 Seamless communication with the Spring Boot backend
-
-🗃️ Store and retrieve research data in a structured format
-
-🛠️ Scalable and modular architecture for future enhancements
-
-🧩 Tech Stack
-Frontend: Chrome Extension (JavaScript/HTML/CSS)
+Frontend: Extensão do Chrome (JavaScript/HTML/CSS)
 
 Backend: Spring Boot (Java)
 
-Communication: REST API
+Comunicação: API REST
 
-Database: (Optional, configurable depending on your use case)
-
-This tool is ideal for students, researchers, and knowledge workers looking for a smarter way to organize and enhance their online research workflow.
+Esta ferramenta é ideal para estudantes, pesquisadores e profissionais do conhecimento que buscam uma maneira mais inteligente de organizar e potencializar seu fluxo de trabalho de pesquisa online.
