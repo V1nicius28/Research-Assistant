@@ -1,3 +1,6 @@
+![Captura de Tela (9)](https://github.com/user-attachments/assets/4e6d1c09-ea01-44e2-ac79-6131406e13fc)
+
+
 # Reseach-Assistant
 Este projeto é uma extensão do Chrome poderosa e fácil de usar, desenvolvida para auxiliar usuários em tarefas de pesquisa acadêmica e técnica. A extensão se integra perfeitamente com um backend em Spring Boot, permitindo o processamento eficiente de dados, armazenamento e comunicação com APIs externas ou bancos de dados.
 
